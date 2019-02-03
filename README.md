@@ -1,4 +1,5 @@
-# MissingLetters
+# Animation
+
 
 ## Table of contents
 * [General Info](#general-info)<br />
@@ -10,8 +11,7 @@
 * [Liscense](#license)
 
 ## General Info
-
-MissingLetters is a project that uses Java to find if their are any missing letters from the alphabet in sentences or if the sentence is a pangram. Pangrams are sentences that use every letter in the alphabet. 
+Animation is about a collection of particles that are contained in a linear chamber. All of the particles have the exact same speed, and although they are moving either towards the right or left they can all pass through each other without distrubtion. This project will show the animation of the particles and their movement.
 
 ## Technologies
 
@@ -36,4 +36,3 @@ This project has no menu or modifiable settings. There is no configuration.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
